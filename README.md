@@ -1,5 +1,5 @@
 # Personal Web Page
-# English
+# English:
 My personal page was build with HTML5, CSS3 and Bootstrap 4 Framework.
 
 I developed this page with the intention of enhancing my knowledge by putting what I've learned into practice. Besides that, it gathers some basic information about me.
@@ -28,7 +28,7 @@ Source of original images used:
 > PHP - https://www.php.net/download-logos.php
 
 
-# Português
+# Português:
 Página pessoal desenvolvida utilizando HTML5, CSS3 e o Framework Bootstrap 4.
 
 Desenvolvi essa pagina com a intenção de tentar aprimorar meus conhecimentos colocando o que aprendi em pratica, além de reunir algumas informações basicas sobre mim.
