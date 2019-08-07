@@ -4,7 +4,7 @@ My personal page was build with HTML5, CSS3 and Bootstrap 4 Framework.
 
 I developed this page with the intention of enhancing my knowledge by putting what I've learned into practice. Besides that, it gathers some basic information about me.
 
-All the content used to develop it is taught in: Bootstrap 4 - Completo e Direto ao Ponto. The course is provided by Professor Diego Mariano, Ph.D. at Udemy. https://www.udemy.com/bootstrap-framework/
+All the content used to develop it is taught in: Bootstrap 4 - Completo e Direto ao Ponto. The course is provided by Professor Diego Mariano, Ph.D. at Udemy. Link: https://www.udemy.com/bootstrap-framework/
 
 To get Bootstrap and view documentation, visit: https://getbootstrap.com/
 
